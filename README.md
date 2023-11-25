@@ -5,7 +5,7 @@
   <p>:rose: A Python Code Obfuscator :shield:</p>
 </div>
 
-<h1 align="center">RoseGuardian</h1>
+<h1 align="center">Rose-Obf</h1>
 
 <p align="center">
   <img alt="Top Language" src="https://img.shields.io/github/languages/top/DamagingRose/RoseGuardian">
@@ -29,7 +29,7 @@
 
 ## About :rose:
 
-RoseGuardian is a powerful Python code obfuscator designed to safeguard your intellectual property. It employs advanced techniques to obscure your source code, making it significantly more challenging for potential reverse engineers to understand or modify.
+Rose-Obf is a powerful Python code obfuscator designed to safeguard your intellectual property. It employs advanced techniques to obscure your source code, making it significantly more challenging for potential reverse engineers to understand or modify.
 
 <div id="features"></div>
 
