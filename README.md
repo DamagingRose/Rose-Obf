@@ -1,3 +1,5 @@
+# im writing all this shit again cuz its bad yessss i already have it improved just no time to make the readme and additional shit yk yk
+
 <div align="center" id="top"> 
   <img src="./img.png" alt="RoseGuardian Logo" />
   <br />
